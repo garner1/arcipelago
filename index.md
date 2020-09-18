@@ -1,3 +1,3 @@
 # Benvenuti nell'arcipelago
 
-Orientare gli italiani all'estero
+Questo è un sito per aitare gli italiani all'estero ad orientarsi.
