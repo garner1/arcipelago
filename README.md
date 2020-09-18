@@ -1,2 +1,3 @@
-# arcipelago
-title: Benvenuti nell'arcipelago
+# Benvenuti nell'arcipelago
+
+Un sito per aiutare gli italiani all'estero ad orientarsi.
